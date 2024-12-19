@@ -133,4 +133,4 @@ int main() {
 
 ```
 
-![Image](image/ex7_3)
+![Image](image/ex7_3.png)
